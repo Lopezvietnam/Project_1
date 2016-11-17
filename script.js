@@ -2,7 +2,7 @@
 //Project 1: Random Quote Generator 
 //Treehouse Techdegree :Fullstack JavaScript 
 //github.com/Lopezvietnam/Project_1
-
+//compatible in Chrome, Firefox
 
 
 
